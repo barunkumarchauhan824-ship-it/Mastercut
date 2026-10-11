@@ -1,4 +1,4 @@
 # Mastercut
 
-Website link : https://github.com/barunkumarchauhan824-ship-it/Mastercut
+Website link : http://localhost:5173/
 
